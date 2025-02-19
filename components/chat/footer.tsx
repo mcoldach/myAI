@@ -12,7 +12,7 @@ export default function ChatFooter() {
       </div>
       <div className="flex-grow text-center">
         {/* Center Pane */}
-        {IronTriangleAI can make mistakes. Check important info.}
+        {'IronTriangleAI can make mistakes. Check important info.'}
       </div>
       <div className="flex-grow text-right">
         {/* Right Pane */}
