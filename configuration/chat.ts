@@ -1,4 +1,4 @@
-import { OWNER_NAME, AI_NAME } from "./identity";
+import { AI_ROLE, AI_NAME } from "./identity";
 
 export const INITIAL_MESSAGE: string = `Hey! I'm ${AI_NAME}, a ${AI_ROLE} tool.  What do you need to get done?`;
 export const DEFAULT_RESPONSE_MESSAGE: string = `Sorry, I'm having trouble generating a response. Please try again later.`;
